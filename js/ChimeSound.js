@@ -1,4 +1,4 @@
-const m5_address  = '192.168.1.2:81';         //M5StickCのIPアドレス
+const m5_address  = 'chime-server:81';         //M5StickCのIPアドレス
 const chime_sound = './sound/door_chime0.mp3' //チャイムで鳴らす音(https://taira-komori.jpn.org/daily01.html から入手して soundフォルダに入れた)
 
 const chime_sound_audio = new Audio(chime_sound);
