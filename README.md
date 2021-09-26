@@ -1,6 +1,8 @@
 # ChimeSound
 
-[M5StickcChimeServer](https://github.com/rynan4818/M5StickcChimeServer) を使って、ビーセイプレイ中などでもチャイム（ドアホン）が鳴ったら、ゲーム内でもチャイムを鳴らす
+[M5StickcChimeServer](https://github.com/rynan4818/M5StickcChimeServer) を使って、ビーセイプレイ中などでもインターホンのチャイムが鳴ったら、ゲーム内でもチャイムを鳴らすクライアント
+
+[参考動画](https://twitter.com/rynan4818/status/1441699888463421441)
 
 `ChimeSound.js` の m5_address を M5StickCのIPアドレスに修正して、chime_sound にチャイムに鳴らしたい音声ファイルを指定します。
 
